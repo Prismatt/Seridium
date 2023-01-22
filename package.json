@@ -5,9 +5,9 @@
   "description": "Séridium est un serveur minecraft survei modée, accessible uniquement au joueur premium de minecraft!",
   "author": "Prisma (https://github.com/Prismaexe)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/Prismaexe/S-ridium",
+  "homepage": "https://github.com/Prismaexe/Seridium",
   "bugs": {
-    "url": "https://github.com/Prismaexe/S-ridium/issues"
+    "url": "https://github.com/Prismaexe/Seridium/issues"
   },
   "private": true,
   "main": "index.js",
